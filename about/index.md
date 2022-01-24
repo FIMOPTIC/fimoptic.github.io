@@ -17,10 +17,10 @@ instability of fault zones, which are sometimes precursory to large seismic
 ruptures.
 
 For this, we will take advantage of the optical interferometry technology
-Fabry-Perot that our team (ESEO, IPGP and ENS) has developed in the last 10
-years for high resolution optical instruments (long base tiltmeter,
-seismometer, and strainmeter), and will evaluate their advantages over
-commercial instruments.
+Fabry-Perot that our team ([ESEO](https://eseo.fr), [IPGP](https://www.ipgp.fr)
+and [ENS](http://www.geologie.ens.fr)) has developed in the last 10 years for
+high resolution optical instruments (long base tiltmeter, seismometer, and
+strainmeter), and will evaluate their advantages over commercial instruments.
 
 
 Two very active seismogenic pilot sites are selected, on the science and
