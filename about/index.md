@@ -11,7 +11,7 @@ hide_description: true
 
 # About
 
-The objective of the project is to improve the detection and mechanical
+The objective of FIMOPTIC project is to improve the detection and mechanical
 characterization of the sources of the weak strain signals caused by transient
 instability of fault zones, which are sometimes precursory to large seismic
 ruptures.
@@ -75,8 +75,8 @@ recording of several complete cycles, possibly including phases of
 unstabilities, or even of rupture initiation or nucleation.
 
 
-This project will bring new knowledge on the mechanics of deformation and on
-the seismic hazard of the two sites. It will also bring generic knowledge on
+FIMOPTIC project will bring new knowledge on the mechanics of deformation and
+on the seismic hazard of the two sites. It will also bring generic knowledge on
 the seismic-aseismic coupling of fault systems. The validation of the
 capabilities of our instruments should favour their use for the geomonitoring
 in academic (observatories for seismicity, volcanoes, offhshore,...) as well as
@@ -84,6 +84,6 @@ industrial sector (mines, georeservoirs, deep geothermy, ...) of the seismic
 cycle of asperities and on the unstable seismic- aseismic coupling in fault
 zones.
 
-As a complementary "product" of the project, the new instruments will be
+As a complementary "product" of FIMOPTIC project, the new instruments will be
 demonstrated and qualified in the field, and advertised for being used in other
 contexts of geo-monitoring in academic or industrial environment.
