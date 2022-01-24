@@ -28,9 +28,11 @@ monitoring of which the proponents have been much involved:
 
   1. **The western rift of Corinth**, focusing here on the pore pressure and
   slow slip instabilities of the fault system, a site monitored since 2000 by
-  the Corinth Rift Laboratory (CRL), involving in particular IPGP and ENS. ;
-  2. **Inside a deep, active mine in Sweden, in Garpenberg** (BOLIDEN mine),
-  for reaching the neighborhood of repeating seismic asperities of metric
+  the [Corinth Rift Laboratory](http://crlab.eu) (CRL), involving in particular
+  IPGP and ENS;
+  2. **Inside a deep, active mine in Sweden, in Garpenberg** ([BOLIDEN
+  mine](https://www.boliden.com/operations/mines/boliden-garpenberg)), for
+  reaching the neighborhood of repeating seismic asperities of metric
   dimension, frequently cycled ("repeaters"), around 1100 m in depth, a site
   monitored for the last 6 years by INERIS.
 
@@ -45,26 +47,28 @@ decimetric integrations. First tests with the ESEO interrogator allows us to
 aim at a resolution better than 10 nanostrain, resolving the earth tide.
 
 
-In **Corinth**, the long base tiltmeter will be installed in a tunnel,
-associated to an optical strainmeter, in the vicinity of the Psathopyrgos
-fault, the most threatening of the site. Another strainmeter will be cemented
-in a borehole. The optical seismometer will be installed in a 200 m deep
-borehole. During the 3 years of the project, dozens of seismic swarms are
+In **[Corinth](http://crlab.eu)**, the long base tiltmeter will be installed in
+a tunnel, associated to an optical strainmeter, in the vicinity of the
+Psathopyrgos fault, the most threatening of the site. Another strainmeter will
+be cemented in a borehole. The optical seismometer will be installed in a 200 m
+deep borehole. During the 3 years of the project, dozens of seismic swarms are
 expected at less than 10 km, with possibly detectable episodes of transient
 deformation. The records will be jointly analyzed with those of CRL (GNSS,
 InSAR, borehole strainmeters, seismic array), using correlation and A.I., and
 the source of the strain signals will be modelled.
 
 
-In **Garpenberg**, a first installation plans 500 m of optic cable in galleries
-close to the repeater families (less than 20 m), for an interrogation by
-commercial systems DAS and BOTDR, complemented by seismometers, for determining
-the precise location of the activated asperities. A second installation plans
-to focus on one or a few repeaters, to get very close to them (a few meters)
-thanks to small boreholes equipped with optical fibers for our strainmeter
-prototype and for the BOTDR. These instruments will be in operation until the
-end of the project. All these measures will be jointly analyzed, integrating
-the geological information from the drillings, and with A.I. tools. The rupture
+In
+**[Garpenberg](https://www.boliden.com/operations/mines/boliden-garpenberg)**,
+a first installation plans 500 m of optic cable in galleries close to the
+repeater families (less than 20 m), for an interrogation by commercial systems
+DAS and BOTDR, complemented by seismometers, for determining the precise
+location of the activated asperities. A second installation plans to focus on
+one or a few repeaters, to get very close to them (a few meters) thanks to
+small boreholes equipped with optical fibers for our strainmeter prototype and
+for the BOTDR. These instruments will be in operation until the end of the
+project. All these measures will be jointly analyzed, integrating the
+geological information from the drillings, and with A.I. tools. The rupture
 cycle of one asperity will be analyzed and modelled by friction laws on the
 fault. The rythm of rupture of these asperities (days-months), guarantees the
 recording of several complete cycles, possibly including phases of
