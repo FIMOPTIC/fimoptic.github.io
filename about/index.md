@@ -63,15 +63,12 @@ the precise location of the activated asperities. A second installation plans
 to focus on one or a few repeaters, to get very close to them (a few meters)
 thanks to small boreholes equipped with optical fibers for our strainmeter
 prototype and for the BOTDR. These instruments will be in operation until the
-end of the project.
-
-
-All these measures will be jointly analyzed, integrating the geological
-information from the drillings, and with A.I. tools. The rupture cycle of one
-asperity will be analyzed and modelled by friction laws on the fault. The rythm
-of rupture of these asperities (days-months), guarantees the recording of
-several complete cycles, possibly including phases of unstabilities, or even of
-rupture initiation or nucleation.
+end of the project. All these measures will be jointly analyzed, integrating
+the geological information from the drillings, and with A.I. tools. The rupture
+cycle of one asperity will be analyzed and modelled by friction laws on the
+fault. The rythm of rupture of these asperities (days-months), guarantees the
+recording of several complete cycles, possibly including phases of
+unstabilities, or even of rupture initiation or nucleation.
 
 
 This project will bring new knowledge on the mechanics of deformation and on
